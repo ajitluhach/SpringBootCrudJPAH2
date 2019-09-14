@@ -1,3 +1,9 @@
+# local temporary files
+.classpath
+.project*
+.mvn*
+.settings*
+mvnw.cmd
 # Compiled class file
 *.class
 
